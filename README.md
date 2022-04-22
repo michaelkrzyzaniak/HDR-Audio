@@ -8,3 +8,7 @@ The microphones in the video are here:
 https://michaelkrzyzaniak.com/marshmallow/shop.php
 
 The code is fairly preliminary and is not intended to be an out-of-the-box solution, but is provided incase anyohe wants to play with it or develop it further.
+
+An example program is in offline_example/main.c and can be compiled from that directory with
+
+gcc *.c ../src/*.c
